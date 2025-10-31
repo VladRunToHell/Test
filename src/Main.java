@@ -1,5 +1,3 @@
-package test;
-
 class Main {
     public static void main(String[] args) {
         int result = Calculator.calc(4, 5);
