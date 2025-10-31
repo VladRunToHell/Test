@@ -1,5 +1,6 @@
 class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        int result = Calculator.calc(4, 5);
+        System.out.println(result);
     }
 }
